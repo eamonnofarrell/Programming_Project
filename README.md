@@ -1,2 +1,3 @@
-# Programming_Project
-Please click on Ipynb https://github.com/eamonnofarrell/Programming_Project/blob/master/Prog_Project%20.ipynb file in order to view this project
+## Programming for Data Analysis - Project 2018
+### Simulating a real world phenomenon
+This repository contains a Jupyter notebook with an investigation into how Box Plots are formed and how they are used. Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. To run the notebook, you need to have [Jupyter](http://jupyter.org/) installed on your machine. It can be installed using the [Anaconda](https://www.anaconda.com/download/) Python distribution. The notebook is called [Prog_Project.ipynb](./Prog_Project.ipynb)
