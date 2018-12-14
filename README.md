@@ -4,3 +4,4 @@ This repository contains a Jupyter notebook with a simulation of voice traffic m
 
 Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. To run the notebook, you need to have [Jupyter](http://jupyter.org/) installed on your machine. It can be installed using the [Anaconda](https://www.anaconda.com/download/) Python distribution. The notebook is called [Prog_Project.ipynb](./Prog_Project.ipynb)
 
+<img align="centre" src="C_image.jpg">
